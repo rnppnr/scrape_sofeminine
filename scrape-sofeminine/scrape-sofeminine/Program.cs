@@ -75,19 +75,20 @@ namespace scrape_sofeminine
                         }
                     }
                     while (line != null);
+
+                    surnames.Sort();
+
+                    using (StreamWriter file = new StreamWriter(filename))
+                    {
+                        foreach (string item in surnames)
+                            file.WriteLine(item);
+                    }
+
                 }
                 catch (Exception ex)
                 {
                     Console.WriteLine("Exception: ", ex.Message);
                 }
-            }
-
-            surnames.Sort();
-
-            using (StreamWriter file = new StreamWriter(filename))
-            {
-                foreach (string item in surnames)
-                    file.WriteLine(item);
             }
 
             if (showProgress)
