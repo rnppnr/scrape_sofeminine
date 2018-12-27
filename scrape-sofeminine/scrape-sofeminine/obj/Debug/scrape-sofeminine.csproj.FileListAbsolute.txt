@@ -1,7 +1,0 @@
-E:\GitHub\Scrape_Sofeminine\scrape-sofeminine\scrape-sofeminine\bin\Debug\scrape-sofeminine.exe.config
-E:\GitHub\Scrape_Sofeminine\scrape-sofeminine\scrape-sofeminine\bin\Debug\scrape-sofeminine.exe
-E:\GitHub\Scrape_Sofeminine\scrape-sofeminine\scrape-sofeminine\bin\Debug\scrape-sofeminine.pdb
-E:\GitHub\Scrape_Sofeminine\scrape-sofeminine\scrape-sofeminine\obj\Debug\scrape-sofeminine.csprojAssemblyReference.cache
-E:\GitHub\Scrape_Sofeminine\scrape-sofeminine\scrape-sofeminine\obj\Debug\scrape-sofeminine.csproj.CoreCompileInputs.cache
-E:\GitHub\Scrape_Sofeminine\scrape-sofeminine\scrape-sofeminine\obj\Debug\scrape-sofeminine.exe
-E:\GitHub\Scrape_Sofeminine\scrape-sofeminine\scrape-sofeminine\obj\Debug\scrape-sofeminine.pdb
